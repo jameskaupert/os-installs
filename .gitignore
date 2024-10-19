@@ -1,0 +1,2 @@
+# Ignore .iso files - may want to run things in this repo!
+*.iso
