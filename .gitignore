@@ -1,2 +1,3 @@
-# Ignore .iso files - may want to run things in this repo!
+# Ignore .iso and .qcow2 files - may want to run things in this repo!
 *.iso
+*.qcow2
